@@ -18,6 +18,11 @@ public class CalculadoraSimple {
         int resta = a - b;
         System.out.println("Resta: " + resta);
 
+        //division 
+        int di=a/b
+        System.out.println("resultado: " + di);
+    
+
         scanner.close();
 
         
